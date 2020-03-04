@@ -1,0 +1,25 @@
+body{
+    background: black;
+}
+
+html{ 
+    margin-left: -56px;
+    overflow-y: hidden;
+    overflow-x: hidden;  
+}
+
+li{
+    color: green;
+    background: black;
+    list-style-type: none;
+}
+
+ul{
+    color: rgb(49, 224, 122);
+    font-size: x-large;
+    margin-right: -35px;
+    margin-top: -15px;
+    margin-bottom: -15px;
+    list-style-type: none;
+    display: inline-block;
+}
